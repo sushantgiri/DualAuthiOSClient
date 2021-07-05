@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'DualAuthiOSClient_Example' do
+  pod 'DualAuthiOSClient', :path => '../'
+
+  target 'DualAuthiOSClient_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
