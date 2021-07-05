@@ -1,0 +1,16 @@
+PODS:
+  - DualAuthiOSClient (0.1.0)
+
+DEPENDENCIES:
+  - DualAuthiOSClient (from `../`)
+
+EXTERNAL SOURCES:
+  DualAuthiOSClient:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DualAuthiOSClient: 7218cf184c177fe98ac3c52e544c17e537bf6ab8
+
+PODFILE CHECKSUM: 18367ef5743f0971fd4a00fe1ab2f7770d0d1aac
+
+COCOAPODS: 1.10.1

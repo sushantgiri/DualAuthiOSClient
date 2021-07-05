@@ -1,0 +1,6 @@
+framework module DualAuthiOSClient {
+  umbrella header "DualAuthiOSClient-umbrella.h"
+
+  export *
+  module * { export * }
+}
